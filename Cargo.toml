@@ -2,7 +2,7 @@
 name = "word_interleave"
 version = "0.3.0"
 authors = ["Suchir Kavi <suchirkavi@gmail.com>"]
-edition = "2018"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
